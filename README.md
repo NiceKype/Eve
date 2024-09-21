@@ -13,11 +13,11 @@
   <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/pfXZtc8ZmV?style=flat" alt="Discord" href="https://amucom-studios.de/discord">
 </p>
 
-## Overview
+## 》Overview
 > [!IMPORTANT]
 > Our project, the bot lovely named **𝐄𝐕𝐄**, is a Allrounder Bot that is currently WIP. So that means, it's not available right now. But you can see the progress here and have a look what features the bot has in the future. Stay tuned for the release ;)
 
-## Features
+## 》Features
 This functions are currently possible with 𝐄𝐕𝐄.
 
 - Coming soon
@@ -34,19 +34,20 @@ This features are planned for the future:
 - [ ] Level System - A fully customizable level system with rewards, level and rankcards. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - [ ] Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 
-## Installation
+## 》Installation
 > [!WARNING]
 > Currently not available.
 
-## Premium
+## 》Premium
 > [!WARNING]
 > Currently not available. We planned premium ranks in the future that you can support our work and development and getting extra features or removing limitations.
 
-## Support
+## 》Support
 You need help with the bot? Then have a look on these links:<br>
 [Documentation](https://github.com/NiceKype/NiceBot#support) • [Discord Server](https://amucom-studios.de/discord)
+<br><img src="http://invidget.switchblade.xyz/1016839220414922762" alt="Discord Server" href="https://discord.gg/pfXZtc8ZmV">
 
-## License
+## 》License
 
 Cracking, breaking, copying and using our code is forbidden! Images, texts and content are subject to the copyright of NiceKype.
 You can find all license terms here: https://nicekype.dev/licenses .
