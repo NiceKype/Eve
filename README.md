@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-21.09.2024-272727.svg" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.3-blue.svg" alt="Version">
-  <img src="https://discordapp.com/api/guilds/1016839220414922762/widget.png" alt="Discord" href="https://amucom-studios.de/discord">
+  <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/pfXZtc8ZmV?style=flat" alt="Discord" href="https://amucom-studios.de/discord">
 </p>
 
 ## Overview
